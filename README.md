@@ -1,0 +1,2 @@
+# BilibiliSubscriptionManager
+一个管理B站关注的小工具
